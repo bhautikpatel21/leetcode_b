@@ -38,5 +38,5 @@ var reverseWords = function(s) {
     
     return reversString;
 };
-let s = '   My Name Is Dhaval Solanki   ';
+let s = '  Mansukh bhai   ';
 console.log(reverseWords(s));
