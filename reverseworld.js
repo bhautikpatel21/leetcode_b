@@ -38,5 +38,5 @@ var reverseWords = function(s) {
     
     return reversString;
 };
-let s = '  Mansukh bhai   ';
+let s = '  Mansukhbhai   ';
 console.log(reverseWords(s));
